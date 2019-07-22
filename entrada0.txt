@@ -1,0 +1,25 @@
+Ciudades
+a, b, c, d, e, f, g, h, i, j, k
+Costos
+a,b,3
+a,e,7
+a,h,6
+b,c,4
+b,e,5
+b,c,4
+b,f,3
+c,f,8
+c,d,5
+c,g,6
+d,g,4
+d,k,7
+e,f,2
+e,h,2
+e,i,5
+f,g,6
+f,j,7
+g,j,9
+g,k,4
+h,i,4
+i,j,6
+j,k,3

@@ -1,0 +1,10 @@
+Costo de viaje: 47
+k,j,3
+j,f,7
+f,e,2
+e,i,5
+i,h,4
+h,a,6
+a,b,3
+b,c,4
+c,d,5
